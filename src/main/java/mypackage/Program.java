@@ -11,7 +11,7 @@ public class Program {
 		int a=10,b=20,c;
 		c=a-b;
 		System.out.println("Sub="+c);
-	}
+	
 	
 	public static void main(String[] args) {
 
