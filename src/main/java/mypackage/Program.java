@@ -9,7 +9,7 @@ public class Program {
 	}
 	public void Sub() {
 		int a=10,b=20,c;
-		c=ab;
+		c=a-b;
 		System.out.println("Sub="+c);
 	}
 	
