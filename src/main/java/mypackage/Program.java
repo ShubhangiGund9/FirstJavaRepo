@@ -7,6 +7,12 @@ public class Program {
 		c=a+b;
 		System.out.println("Add="+c);
 	}
+	public void Sub() {
+		int a=10,b=20,c;
+		c=ab;
+		System.out.println("Sub="+c);
+	}
+	
 	public static void main(String[] args) {
 
 		Program p =new Program();
